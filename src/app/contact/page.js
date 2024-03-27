@@ -1,7 +1,11 @@
-import React from "react";
+import style from "./Contact.module.css";
 
 const ContactPage = () => {
-  return <div>Contact Page</div>;
+  return (
+    <div>
+      <h1 className={style.heading}>Contact Page</h1>
+    </div>
+  );
 };
 
 export default ContactPage;

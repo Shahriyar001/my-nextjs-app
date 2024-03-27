@@ -4,7 +4,6 @@ const HomePage = () => {
   return (
     <div>
       <h1 className="text-4xl text-center">welcome my first nextjs app</h1>
-      <Counter></Counter>
     </div>
   );
 };
