@@ -1,0 +1,76 @@
+{
+  "shoes": [
+    {
+      "title": "Running Shoes",
+      "description": "High-performance running shoes suitable for all types of terrain.",
+      "price": 99.99,
+      "id": "RS001",
+      "shoe_data": {
+        "brand": "Nike",
+        "color": "Black",
+        "size": "10",
+        "material": "Mesh"
+      }
+    },
+    {
+      "title": "Casual Sneakers",
+      "description": "Comfortable sneakers perfect for everyday wear.",
+      "price": 59.99,
+      "id": "CS002",
+      "shoe_data": {
+        "brand": "Adidas",
+        "color": "White",
+        "size": "9",
+        "material": "Canvas"
+      }
+    },
+    {
+      "title": "Hiking Boots",
+      "description": "Sturdy boots designed for rugged outdoor adventures.",
+      "price": 129.99,
+      "id": "HB003",
+      "shoe_data": {
+        "brand": "Merrell",
+        "color": "Brown",
+        "size": "11",
+        "material": "Leather"
+      }
+    },
+    {
+      "title": "Running Shoes",
+      "description": "High-performance running shoes suitable for all types of terrain.",
+      "price": 99.99,
+      "id": "RS0013",
+      "shoe_data": {
+        "brand": "Nike",
+        "color": "Black",
+        "size": "10",
+        "material": "Mesh"
+      }
+    },
+    {
+      "title": "Casual Sneakers",
+      "description": "Comfortable sneakers perfect for everyday wear.",
+      "price": 59.99,
+      "id": "CS0023",
+      "shoe_data": {
+        "brand": "Adidas",
+        "color": "White",
+        "size": "9",
+        "material": "Canvas"
+      }
+    },
+    {
+      "title": "Hiking Boots",
+      "description": "Sturdy boots designed for rugged outdoor adventures.",
+      "price": 129.99,
+      "id": "HB0033",
+      "shoe_data": {
+        "brand": "Merrell",
+        "color": "Brown",
+        "size": "11",
+        "material": "Leather"
+      }
+    }
+  ]
+}
