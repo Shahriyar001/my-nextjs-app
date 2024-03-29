@@ -15,6 +15,8 @@ const HomePage = async () => {
   const shoes = await res.json();
   // console.log(data);
 
+  throw new Error("Error from home page");
+
   return (
     <div className="text-center my-5">
       <h1 className="text-4xl text-center">welcome my first nextjs app</h1>
